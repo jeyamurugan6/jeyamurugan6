@@ -12,7 +12,7 @@
 
 - I’m looking to collaborate on **real time projects**
 
-- 📫 How to reach me **jeyamurugan162@gmail.com**
+- 📫  reach me @**jeyamurugan162@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

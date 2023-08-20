@@ -1,7 +1,7 @@
 ![keathen bennet](https://user-images.githubusercontent.com/85154277/195522493-ed56f037-462b-4a12-8def-e549a73c819c.gif)
 
 <h1 align="center">Hi 👋, I'm Jeyamurugan.n</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate FullStack developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jeyamurugan6&label=Profile%20views&color=0e75b6&style=flat" alt="jeyamurugan6" /> </p>
 
@@ -9,9 +9,9 @@
 
 <p align="left"> <a href="https://twitter.com/jeya murugan" target="blank"><img src="https://img.shields.io/twitter/follow/jeya murugan?logo=twitter&style=for-the-badge" alt="jeya murugan" /></a> </p>
 
-- 🔭 I’m currently working on **kotlin**
+- 🔭 I’m currently working on **Web development**
 
-- 🌱 I’m currently learning **python,R,Kotlin**
+- 🌱 I’m currently learning **python,Java Script,React js,html,css**
 
 - 📫 How to reach me **jeyamurugan162@gmail.com**
 
